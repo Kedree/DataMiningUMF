@@ -6,3 +6,4 @@ The work is seperated by assignment and contains the data used as well as the ac
 - [x] HW1
 - [x] HW2
 - [x] HW3
+- [x] HW4
